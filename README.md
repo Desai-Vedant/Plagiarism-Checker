@@ -1,28 +1,30 @@
-# Plagiarism-Checker
+# Plagiarism Checker App 🕵️‍♂️
 
+Welcome to the Plagiarism Checker repository! This app, built using the customtkinter Python library, empowers users to detect plagiarism across multiple uploaded files. Follow the steps below to get started:
 
-1. Download Libraries Required:
+## Usage Instructions:
 
-  1. customtkinter
-    command: pip install customtkinter
-    
-  2. Pillow
-    command: pip install Pillow
-    
-  3. openpyxl
-    command: pip install openpyxl
+### 1. Install Required Libraries:
+''''bash
+pip install customtkinter
+pip install Pillow
+pip install openpyxl
+''''
 
+### 2. Download Files:
 
+Ensure the following three files are in the same folder:
+''''bash
+1. Plagiarism Checker.py
+2. dark_bg.png
+3. light_bg.png
+''''
+### 3. Run the App:
 
-2. Download 3 Files in same folder
-  
-  1. Plagiarism Checker.py
-  2. dark_bg.png
-  3. light_bg.png
-  
+Open the Command Prompt and execute the following Python command:
+''''bash
+python "Plagiarism Checker.py"
+''''
+Explore the app's intuitive interface and take advantage of its plagiarism-checking capabilities. Detect similarities across multiple files effortlessly!
 
-
-3. Open Command Prompt and Run the Code using Python Command:
-
-  command: python "Plagiarism Checker.py"
-  
+Feel free to contribute, report issues, or enhance the app for a better plagiarism-checking experience. Happy checking! 🔍🚀
